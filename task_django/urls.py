@@ -17,7 +17,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from magazin_app.views import TemplIf
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('my_app.urls')),
+    path('magazin/', include('magazin_app.urls')),
+    path('orders/<int:id_user>', TemplIf.as_view(), name='orders'),
 ]
