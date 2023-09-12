@@ -16,8 +16,8 @@ class User(models.Model):
 
 class Product(models.Model):
     title = models.CharField(max_length=100)
-    description = models.TextField()
-    price = models.DecimalField(max_digits=8, decimal_places=2)
+    description = models.TextField(default='', blank=True)
+    price = models.DecimalField(default='999999,99', max_digits=8, decimal_places=2)
     count = models.IntegerField(default=0)
     added_at = models.DateTimeField(auto_now_add=True)
 
