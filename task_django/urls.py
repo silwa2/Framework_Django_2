@@ -24,4 +24,7 @@ urlpatterns = [
     path('', include('my_app.urls')),
     path('magazin/', include('magazin_app.urls')),
     path('orders/<int:id_user>', TemplIf.as_view(), name='orders'),
+    path('les4/', include('myapp4.urls')),
 ]
+
+
