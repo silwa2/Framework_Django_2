@@ -2143,3 +2143,43 @@ Watching for file changes with StatReloader
 "GET /admin/magazin_app/user/15/change/ HTTP/1.1" 200 11860
 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 12023
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+Not Found: /styles/style.css
+"GET /styles/style.css HTTP/1.1" 404 12698
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=HistoryPanel HTTP/1.1" 200 4155
+"GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=VersionsPanel HTTP/1.1" 200 760
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=SettingsPanel HTTP/1.1" 200 27025
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=HeadersPanel HTTP/1.1" 200 5345
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=RequestPanel HTTP/1.1" 200 2310
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=SQLPanel HTTP/1.1" 200 30138
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=StaticFilesPanel HTTP/1.1" 200 36859
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=TemplatesPanel HTTP/1.1" 200 4338
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=CachePanel HTTP/1.1" 200 1737
+"GET /__debug__/render_panel/?store_id=4e92a0434bbd4cec9e5511247de8b76c&panel_id=SignalsPanel HTTP/1.1" 200 2231
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\79282\PycharmProjects\Sasha\PYTHON\Framework_Django\Project_HW\task_django\task_django\settings.py changed, reloading.
